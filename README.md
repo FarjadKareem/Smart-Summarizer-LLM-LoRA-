@@ -77,7 +77,7 @@ Assessed on 10 summaries using DeepSeek-V3 (via Together.ai) with the following 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/smart-summarizer
+git clone https://github.com/Farjadkareem/smart-summarizer
 cd smart-summarizer
 pip install -r requirements.txt
 ```
