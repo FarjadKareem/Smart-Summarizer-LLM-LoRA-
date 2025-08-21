@@ -80,7 +80,7 @@ A smart academic summarization system that fine-tunes Large Language Models (LLM
 git clone https://github.com/Farjadkareem/smart-summarizer-LLM-LoRA
 cd smart-summarizer
 pip install -r requirements.txt
-`\`\`\``
+\\\
 ---
 ## 📌 Future Improvements
 
